@@ -102,3 +102,6 @@ ENV/
 
 .cache
 db.sqlite3
+
+*.swp
+*.swo
